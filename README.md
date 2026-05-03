@@ -1,9 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/industrialiotengineer/ESP8266-WIFI-CAR?style=flat) 
-![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=flat) 
-![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=flat) 
-![Arduino](https://img.shields.io/badge/Arduino-ESP8266-blue?style=flat&logo=arduino) 
-![WiFi](https://img.shields.io/badge/Control-WiFi-green?style=flat&logo=wifi) 
-![No App](https://img.shields.io/badge/App-No%20App-orange?style=flat) 
+![Arduino](https://img.shields.io/badge/Arduino-ESP8266-blue?style=flat&logo=arduino)
+![WiFi](https://img.shields.io/badge/Control-WiFi-green?style=flat&logo=wifi)
+![No App](https://img.shields.io/badge/App-No%20App-orange?style=flat)
 ![Robot Car](https://img.shields.io/badge/4WD-Robot%20Car-red?style=flat)
 
 # 🚗 ESP8266 WiFi Controlled 4WD Smart Car
