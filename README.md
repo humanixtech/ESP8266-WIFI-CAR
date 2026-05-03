@@ -171,3 +171,7 @@ If this project helped you:
 Industrial IoT Engineer
 
 🔗 GitHub: https://github.com/industrialiotengineer
+
+![GitHub stars](https://img.shields.io/github/stars/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
+![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
