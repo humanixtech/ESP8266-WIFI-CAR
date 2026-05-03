@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
+![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
+
 # 🚗 ESP8266 WiFi Controlled 4WD Smart Car
 
 🔥 A fully wireless, app-controlled 4WD robot car powered by ESP8266 with a custom web-based joystick UI — no app required!
@@ -24,6 +28,14 @@
 
 ---
 
+## ⚡ Quick Start
+
+1. Upload code to ESP8266 using Arduino IDE
+2. Power the car
+3. Connect mobile to WiFi: `CAR_v1.0`
+4. Open browser → `192.168.4.1`
+5. Control the car using UI
+
 ## ⚡ Features
 
 - 📡 WiFi Control (No App Needed)
@@ -41,6 +53,14 @@
 - 🔌 Battery powered (portable)
 
 ---
+
+## 💡 Why This Project?
+
+- No Android app required
+- Works on any phone browser
+- Clean UI design
+- Easy to build
+- Beginner + Advanced friendly
 
 ## 🧠 How It Works
 
@@ -171,7 +191,3 @@ If this project helped you:
 Industrial IoT Engineer
 
 🔗 GitHub: https://github.com/industrialiotengineer
-
-![GitHub stars](https://img.shields.io/github/stars/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
-![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)
