@@ -2,6 +2,15 @@
 [![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)](https://github.com/industrialiotengineer/ESP8266-WIFI-CAR/network/members)
 [![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)](https://github.com/industrialiotengineer/ESP8266-WIFI-CAR/blob/main/LICENSE)
 
+[![GitHub stars](https://img.shields.io/github/stars/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)](https://github.com/industrialiotengineer/ESP8266-WIFI-CAR/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)](https://github.com/industrialiotengineer/ESP8266-WIFI-CAR/network/members)
+[![License](https://img.shields.io/github/license/industrialiotengineer/ESP8266-WIFI-CAR?style=for-the-badge)](https://github.com/industrialiotengineer/ESP8266-WIFI-CAR/blob/main/LICENSE)
+
+![Arduino](https://img.shields.io/badge/Arduino-ESP8266-blue?style=for-the-badge&logo=arduino)
+![WiFi](https://img.shields.io/badge/Control-WiFi-green?style=for-the-badge&logo=wifi)
+![No App](https://img.shields.io/badge/App-Not%20Required-orange?style=for-the-badge)
+![Robot Car](https://img.shields.io/badge/Project-4WD%20Robot%20Car-red?style=for-the-badge)
+
 # 🚗 ESP8266 WiFi Controlled 4WD Smart Car
 
 🔥 A fully wireless, app-controlled 4WD robot car powered by ESP8266 with a custom web-based joystick UI — no app required!
