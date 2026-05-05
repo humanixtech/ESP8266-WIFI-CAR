@@ -2,10 +2,14 @@
  * ================================================================
  *        WiFi RC CAR CONTROLLER — ESP8266 NodeMCU
  * ================================================================
- * Author  : RAJU_K
- * Version : 1.0
- * Board   : ESP8266 NodeMCU V1.0/ Wemos D1 Mini
  *
+ * Project : WiFi RC Car using ESP8266 NodeMCU
+ * Brand   : Humanix Tech
+ * Author  : Humanix Tech
+ * Version : 1.0
+ * Board   : ESP8266 NodeMCU / Wemos D1 Mini
+ * GitHub  : https://github.com/humanixtech
+ * Video   : <YouTube link (optional)>
  * HOW IT WORKS:
  *   ESP8266 creates its own WiFi hotspot → connect your phone
  *   → open browser → http://192.168.4.1 → control the car!
