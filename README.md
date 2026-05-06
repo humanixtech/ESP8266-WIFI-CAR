@@ -197,7 +197,6 @@ If this project helped you:
 
 ## 👨‍💻 Author
 
-**Raju K**
-Industrial IoT Engineer
+Humanix Tech
 
-🔗 GitHub: https://github.com/industrialiotengineer
+🔗 GitHub: https://github.com/humanixtech
