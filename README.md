@@ -9,6 +9,15 @@
 
 ---
 
+## 🎥 YouTube Demo
+
+[![Watch the Video](https://img.youtube.com/vi/jsqwnJNBA3M/maxresdefault.jpg)](https://youtu.be/jsqwnJNBA3M)
+
+▶️ Watch Full Project Video:
+https://youtu.be/jsqwnJNBA3M
+
+---
+
 ## 📸 Project Preview
 
 ### 🔧 Internal Wiring
